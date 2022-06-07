@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins';
+    height:665px;
+    background-color:ghostwhite;
+    align-items: center;
+    background-repeat:no-repeat;
+    background-position: 0%;
+    background-size: 1300px;
+
+
+    
+}
+#pie {
+    height:50px;
+    line-height:50px;
+    background:black;
+    color:white;
+   
+    }
