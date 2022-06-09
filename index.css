@@ -6,10 +6,40 @@ body{
     background-repeat:no-repeat;
     background-position: 0%;
     background-size: 1300px;
-
-
-   
 }
+/*section inicio*/
+
+.col_auto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.form-select {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.content1{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+
+}
+  
+    
+
+
+/*section administrador
+section secretario
+section vendedor
+section ensablador*/
 #pie {
     height:50px;
     line-height:50px;
